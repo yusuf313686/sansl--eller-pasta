@@ -15,11 +15,11 @@ const CONFIG = {
   paymentMethods: [],
 
   products: [
-    { name: "Birthday Princess", desc: "Beyaz yaprak detaylı taçlı pasta", img: "fto1.jpg" },
-    { name: "1 Yaş Pastası", desc: "Figürlü özel tasarım doğum günü", img: "fto2.jpg" },
-    { name: "Big Boss", desc: "Siyah & altın kral temalı pasta", img: "fto3.jpg" },
-    { name: "Tatil Pastası", desc: "Eğlenceli emeklilik & tatil teması", img: "fto4.jpg" },
-    { name: "Queen", desc: "Zarif çiçek detaylı altın pasta", img: "fto5.jpg" }
+    { name: "Birthday Princess", desc: "👑 Beyaz yaprak detaylı taçlı pasta", img: "fto1.jpg" },
+    { name: "1 Yaş Pastası", desc: "🎀 Figürlü özel tasarım doğum günü", img: "fto2.jpg" },
+    { name: "Big Boss", desc: "🖤 Siyah & altın kral temalı pasta", img: "fto3.jpg" },
+    { name: "Tatil Pastası", desc: "🏖️ Eğlenceli emeklilik & tatil teması", img: "fto4.jpg" },
+    { name: "Queen", desc: "🌸 Zarif çiçek detaylı altın pasta", img: "fto5.jpg" }
   ],
 
   menuNote: "",
@@ -31,7 +31,7 @@ const CONFIG = {
     portionPrices: {},
     flavorExtras: {},
     priceNote: "",
-    photoNote: "Aklınızdaki pastanın fotoğrafını sipariş sonrası WhatsApp üzerinden göndermeyi unutmayın!",
+    photoNote: "📸 Aklınızdaki pastanın fotoğrafını sipariş sonrası WhatsApp üzerinden göndermeyi unutmayın!",
     rules: [
       "En küçük pasta 8-10 kişiliktir.",
       "Kilo ile pasta satışı yapılmamaktadır.",
@@ -57,8 +57,8 @@ const CONFIG = {
 /* ── BÖLÜM 2 — KURULUMDA BİR KEZ ── */
 
   name: "Şanslı Eller Butik Pasta",
-  tagline: "Afiyet Bal olsun — Ankara",
-  about: "Afiyet bal olsun! Şanslı Eller Butik Pasta olarak Ankara'da kişiye özel tasarım pastalar hazırlıyoruz. Her pasta sevgiyle, özenle ve en kaliteli malzemelerle üretilir. Doğum günleri, nişanlar, baby shower'lar ve tüm özel günleriniz için hayalinizdeki pastayı birlikte tasarlayalım.",
+  tagline: "Afiyet Bal — Ankara",
+  about: "🍰 Afiyet bal! Şanslı Eller Butik Pasta olarak Ankara'da kişiye özel tasarım pastalar hazırlıyoruz. Her pasta sevgiyle, özenle ve en kaliteli malzemelerle üretilir. Doğum günleri, nişanlar, baby shower'lar ve tüm özel günleriniz için hayalinizdeki pastayı birlikte tasarlayalım. 🧿",
 
   logo: "logo.jpg",
 
@@ -77,10 +77,10 @@ const CONFIG = {
   cartEnabled: false,
 
   faq: [
-    { q: "En küçük pasta kaç kişilik?", a: "En küçük pastamız 8-10 kişiliktir." },
-    { q: "Kilo ile pasta satışı var mı?", a: "Hayır, kilo ile pasta satışımız bulunmamaktadır. Tüm pastalarımız kişilik olarak hazırlanır." },
-    { q: "Teslimat yapıyor musunuz?", a: "Evet, Ankara içi ücretli teslimat hizmetimiz mevcuttur." },
-    { q: "Sipariş için kapora gerekli mi?", a: "Evet, kaporalı çalışmaktayız. Siparişiniz kapora ile kesinleşir." }
+    { q: "📦 En küçük pasta kaç kişilik?", a: "En küçük pastamız 8-10 kişiliktir." },
+    { q: "⚖️ Kilo ile pasta satışı var mı?", a: "Hayır, kilo ile pasta satışımız bulunmamaktadır. Tüm pastalarımız kişilik olarak hazırlanır." },
+    { q: "🚗 Teslimat yapıyor musunuz?", a: "Evet, Ankara içi ücretli teslimat hizmetimiz mevcuttur." },
+    { q: "💰 Sipariş için kapora gerekli mi?", a: "Evet, kaporalı çalışmaktayız. Siparişiniz kapora ile kesinleşir." }
   ],
 
   branches: [
@@ -89,7 +89,7 @@ const CONFIG = {
       address: "Ankara içi sipariş ve teslimat",
       mapsUrl: "",
       phone: "+905415424860",
-      hours: "Sipariş için WhatsApp ile iletişime geçin"
+      hours: "Sipariş için WhatsApp ile iletişime geçin 💬"
     }
   ],
 

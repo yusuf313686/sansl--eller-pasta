@@ -57,8 +57,8 @@ const CONFIG = {
 /* ── BÖLÜM 2 — KURULUMDA BİR KEZ ── */
 
   name: "Şanslı Eller Butik Pasta",
-  tagline: "Afiyet Bal — Ankara",
-  about: "Afiyet bal! Şanslı Eller Butik Pasta olarak Ankara'da kişiye özel tasarım pastalar hazırlıyoruz. Her pasta sevgiyle, özenle ve en kaliteli malzemelerle üretilir. Doğum günleri, nişanlar, baby shower'lar ve tüm özel günleriniz için hayalinizdeki pastayı birlikte tasarlayalım.",
+  tagline: "Afiyet Bal olsun — Ankara",
+  about: "Afiyet bal olsun! Şanslı Eller Butik Pasta olarak Ankara'da kişiye özel tasarım pastalar hazırlıyoruz. Her pasta sevgiyle, özenle ve en kaliteli malzemelerle üretilir. Doğum günleri, nişanlar, baby shower'lar ve tüm özel günleriniz için hayalinizdeki pastayı birlikte tasarlayalım.",
 
   logo: "logo.jpg",
 
